@@ -1,0 +1,9 @@
+{
+    "BOT": "Well hello there!\nI’m Sujan's personal bot.\n![sujan](https://github.com/red37/EstherBot/blob/master/img/ferell.jpg?raw=true)\n Click on what do you wish to do?  %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Sujan](postback:learn_about_sujan) %[One random fact!](postback:random_fact)",
+    "HELLO": "Well hello to you too!! %[Tell him](postback:twitter)",
+    "CONTACT HIM": "Let's tweet @ sujan to let him know how awesome I am: %[Tweet Sujan](http://bit.ly/sshrest37)",
+    "I LOVE YOU": "Aww, Thanks!And I think of as an awesome friend",
+    "CONNECT ME": "Gimme a moment",
+    "DISCONNECT": "As arnie once will have said , I am back."
+    
+}
